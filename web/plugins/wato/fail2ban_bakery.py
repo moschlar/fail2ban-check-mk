@@ -46,7 +46,7 @@ def _valuespec_agent_config_fail2ban():
                 ),
             ),
         ],
-    ),
+    )
 
 
 
